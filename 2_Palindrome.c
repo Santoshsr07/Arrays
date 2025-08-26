@@ -1,4 +1,4 @@
-// program to reverse a number
+// program to check number is palindrome
 #include <stdio.h>
 #include <stdlib.h>
 
